@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVP1",TVP1
+#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://pl.wikipedia.org/wiki/TVP1#/media/Plik:TVP1_logo.svg",TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP2",TVP2
+#EXTINF:-1 tvg-id="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/TVP2_logo.svg",TVP2
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVTrwam",TV Trwam 
+#EXTINF:-1 tvg-id="TVTrwam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV_Trwam_logo.png",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
 #EXTINF:-1 tvg-id="Telewizja Biznesowa" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2024/03/telewizja-biznesowa.png",Telewizja Biznesowa
