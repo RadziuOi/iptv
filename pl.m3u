@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TVP1",TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP2",TVP2
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+
 #EXTINF:-1 tvg-id="TVTrwam.pl",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-
 
 #EXTINF:-1 tvg-id="Telewizja Biznesowa" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2024/03/telewizja-biznesowa.png",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 
-#EXTINF:-1 tvg-id="TVT",TVT
-https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+
+
+
 
 
