@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://pl.wikipedia.org/wiki/TVP1#/media/Plik:TVP1_logo.svg",TVP1
+#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/1920px-TVP1_logo.svg.png",TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/TVP2_logo.svg",TVP2
