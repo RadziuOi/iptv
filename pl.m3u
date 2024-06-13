@@ -17,7 +17,7 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="IMPACT Plus!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Impact%2B.png" group-title="Undefined",IMPACT Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="IMPACT Wrestling" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT Wrestling
+#EXTINF:-1 tvg-id="IMPACT Wrestling" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Impact_Wrestling_Logo.svg" group-title="Sports",IMPACT Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
