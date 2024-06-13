@@ -9,6 +9,9 @@ https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 #EXTINF:-1 tvg-id="TVTrwam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV_Trwam_logo.png",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
+#EXTINF:-1 tvg-id="TVMN" tvg-logo="https://tvmn.pl/favicon-196x196.png",TVMN
+https://tvo-28-5.e.blueonline.tv/nb/videokadrabr/live1/videokadr/live_1080p/video.m3u8
+
 #EXTINF:-1 tvg-id="Telewizja Biznesowa" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2024/03/telewizja-biznesowa.png",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 
