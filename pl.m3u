@@ -6,9 +6,6 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-id="TVP2",TVP2
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVP World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TVP_World_%282021%29.svg" group-title="News",TVP World
-http://78.129.193.20/tsstreamer/TVP_SD.ts
-
 #EXTINF:-1 tvg-id="TVTrwam",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
@@ -22,6 +19,9 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="IMPACT Wrestling" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Impact_Wrestling_Logo.svg" group-title="Sports",IMPACT Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
