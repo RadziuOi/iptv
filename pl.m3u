@@ -14,8 +14,7 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Undefined",History
-http://170.254.18.106/HISTORY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="IMPACT Plus!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Impact%2B.png" group-title="Undefined",IMPACT Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
