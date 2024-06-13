@@ -7,6 +7,7 @@ https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/tr
 #EXTINF:-1 tvg-id="Telewizja Biznesowa" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2024/03/telewizja-biznesowa.png",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TVT",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 
 
