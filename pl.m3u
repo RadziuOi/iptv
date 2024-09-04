@@ -1,19 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/TVP1_HD_logo.svg",TVP1
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Undefined",TV Republika
+https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
 
-#EXTINF:-1 tvg-id="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TVP2_HD_logo.svg",TVP2
-https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-id="wPolsce24" tvg-logo="https://static.wpolsce24.tv/img/wpolsce-logo.png",wPolsce24
+https://str.onnetwork.tv/hls/onnet-358726_med/index.m3u8
+
+#EXTINF:-1 tvg-id="TVMN" tvg-logo="https://tvmn.pl/favicon-196x196.png",TVMN
+https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVTrwam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV_Trwam_logo.png",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
-#EXTINF:-1 tvg-id="TVMN" tvg-logo="https://tvmn.pl/favicon-196x196.png",TVMN
-https://tvo-28-5.e.blueonline.tv/nb/videokadrabr/live1/videokadr/live_1080p/video.m3u8
 
 #EXTINF:-1 tvg-id="Telewizja Biznesowa" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2024/03/telewizja-biznesowa.png",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+
+
 
 
 
