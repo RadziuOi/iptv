@@ -84,19 +84,19 @@ https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Polsat_News_2021.png" group-title="Poland",Polsat News
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Poland",Polsat Sport Fight
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/512px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="Poland",Polsat Sport Fight
 https://stream1.freetv.fun/polsat-sport-fight-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Poland",Polsat Sport 1
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Polsat_sport_1_logo.png" group-title="Poland",Polsat Sport 1
 https://stream1.freetv.fun/polsat-sport-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Poland",Polsat Sport 2
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/468px-Polsat_Sport_2_2024.svg.png" group-title="Poland",Polsat Sport 2
 https://stream1.freetv.fun/polsat-sport-extra-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Poland",Polsat Sport 3
+#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_sport_3_logo.png" group-title="Poland",Polsat Sport 3
 https://stream1.freetv.fun/polsat-sport-news-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Poland",Polsat Sport Premium 2
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/512px-Polsat_Sport_Premium_2_2021_gradient.svg.png" group-title="Poland",Polsat Sport Premium 2
 https://stream1.freetv.fun/polsat-sport-premium-2-pl-1.m3u8
 
 
