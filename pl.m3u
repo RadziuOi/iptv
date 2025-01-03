@@ -1,102 +1,102 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AlfaTVP.pl" tvg-logo="https://i.imgur.com/WwE7fhC.png" group-title="Poland",Alfa TVP 
+#EXTINF:-1 tvg-id="AlfaTVP" tvg-logo="https://i.imgur.com/WwE7fhC.png" group-title="Poland",Alfa TVP 
 https://irylek.ct8.pl/stream/alfatvp
 
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Poland",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Poland",Disney Channel
 http://109.233.89.170/Disney_Channel/mono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Poland",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Poland",Disney Junior
 http://109.233.89.166/Disney_Junior/mono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Poland",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Poland",Disney XD
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1 tvg-id="MiniMiniPlus.pl" tvg-logo="https://i.imgur.com/1AdUC53.png" group-title="Poland",MiniMini+ 
+#EXTINF:-1 tvg-id="MiniMiniPlus" tvg-logo="https://i.imgur.com/1AdUC53.png" group-title="Poland",MiniMini+ 
 http://178.219.128.68:64889/MINIHD
 
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Poland",Nick Jr. Poland
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Poland",Nick Jr. Poland
 http://178.219.128.68:64888/NICKJR
 
-#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Poland",Teletoon+ 
+#EXTINF:-1 tvg-id="TeletoonPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Poland",Teletoon+ 
 http://178.219.128.68:64889/TELEHD
 
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/TVP1_2021_logo.png" group-title="Poland",TVP 1 
+#EXTINF:-1 tvg-id="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/TVP1_2021_logo.png" group-title="Poland",TVP 1 
 https://irylek.ct8.pl/stream/tvp1hd
 
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Poland",TVP 2 
+#EXTINF:-1 tvg-id="TVP2" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Poland",TVP 2 
 https://irylek.ct8.pl/stream/tvp2hd
 
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="Poland",TVP ABC 
+#EXTINF:-1 tvg-id="TVPABC" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="Poland",TVP ABC 
 https://irylek.ct8.pl/stream/tvpabc
 
-#EXTINF:-1 tvg-id="TVPABC2.pl" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="Poland",TVP ABC 2 
+#EXTINF:-1 tvg-id="TVPABC2" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="Poland",TVP ABC 2 
 https://irylek.ct8.pl/stream/tvpabc2
 
-#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="Poland",TVP Dokument 
+#EXTINF:-1 tvg-id="TVPDokument" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="Poland",TVP Dokument 
 https://irylek.ct8.pl/stream/tvpdokument
 
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="Poland",TVP Historia
+#EXTINF:-1 tvg-id="TVPHistoria" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="Poland",TVP Historia
 https://irylek.ct8.pl/stream/tvphistoria
 
-#EXTINF:-1 tvg-id="TVPHistoria2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/512px-TVP_Historia_2_%282021%29.svg.png" group-title="Poland",TVP Historia 2 
+#EXTINF:-1 tvg-id="TVPHistoria2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/512px-TVP_Historia_2_%282021%29.svg.png" group-title="Poland",TVP Historia 2 
 https://irylek.ct8.pl/stream/tvphistoria2
 
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="Poland",TVP Info
+#EXTINF:-1 tvg-id="TVPInfo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="Poland",TVP Info
 https://irylek.ct8.pl/stream/tvpinfo
 
-#EXTINF:-1 tvg-id="TVPKobieta.pl" tvg-shift="30 minutes" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="Poland",TVP Kobieta 
+#EXTINF:-1 tvg-id="TVPKobieta" tvg-shift="30 minutes" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="Poland",TVP Kobieta 
 https://irylek.ct8.pl/stream/tvpkobieta
 
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="Poland",TVP Kultura 
+#EXTINF:-1 tvg-id="TVPKultura" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="Poland",TVP Kultura 
 https://irylek.ct8.pl/stream/tvpkultura
 
-#EXTINF:-1 tvg-id="TVPKultura2.pl" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="Poland",TVP Kultura 2 
+#EXTINF:-1 tvg-id="TVPKultura2" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="Poland",TVP Kultura 2 
 https://irylek.ct8.pl/stream/tvpkultura2
 
-#EXTINF:-1 tvg-id="TVPNauka.pl" tvg-logo="https://i.imgur.com/ga5Z8jf.png" group-title="Poland",TVP Nauka 
+#EXTINF:-1 tvg-id="TVPNauka" tvg-logo="https://i.imgur.com/ga5Z8jf.png" group-title="Poland",TVP Nauka 
 https://irylek.ct8.pl/stream/tvpnauka
 
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="Poland",TVP Polonia 
+#EXTINF:-1 tvg-id="TVPPolonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="Poland",TVP Polonia 
 https://irylek.ct8.pl/stream/tvppolonia
 
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Poland",TVP Rozrywka 
+#EXTINF:-1 tvg-id="TVPRozrywka" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Poland",TVP Rozrywka 
 https://irylek.ct8.pl/stream/tvprozrywka
 
-#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Poland",TVP World 
+#EXTINF:-1 tvg-id="TVPWorld" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Poland",TVP World 
 https://irylek.ct8.pl/stream/tvpworld
 
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="Poland",TVP Sport 
+#EXTINF:-1 tvg-id="TVPSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="Poland",TVP Sport 
 https://irylek.ct8.pl/stream/tvpsport
 
-#EXTINF:-1 tvg-id="TV4.pl" tvg-shift="3 minutes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Poland",TV4 
+#EXTINF:-1 tvg-id="TV4" tvg-shift="3 minutes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Poland",TV4 
 https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Poland",Polsat
+#EXTINF:-1 tvg-id="Polsat" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Poland",Polsat
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-shift="3 hours" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Poland",TV Trwam 
+#EXTINF:-1 tvg-id="TVTrwam" tvg-shift="3 hours" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Poland",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
-#EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Poland",TVT 
+#EXTINF:-1 tvg-id="TVT" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Poland",TVT 
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Polsat_News_2021.png" group-title="Poland",Polsat News
+#EXTINF:-1 tvg-id="PolsatNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Polsat_News_2021.png" group-title="Poland",Polsat News
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/512px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="Poland",Polsat Sport Fight
+#EXTINF:-1 tvg-id="PolsatSportFight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/512px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="Poland",Polsat Sport Fight
 https://stream1.freetv.fun/polsat-sport-fight-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Polsat_sport_1_logo.png" group-title="Poland",Polsat Sport 1
+#EXTINF:-1 tvg-id="PolsatSport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Polsat_sport_1_logo.png" group-title="Poland",Polsat Sport 1
 https://stream1.freetv.fun/polsat-sport-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/468px-Polsat_Sport_2_2024.svg.png" group-title="Poland",Polsat Sport 2
+#EXTINF:-1 tvg-id="PolsatSport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/468px-Polsat_Sport_2_2024.svg.png" group-title="Poland",Polsat Sport 2
 https://stream1.freetv.fun/polsat-sport-extra-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_sport_3_logo.png" group-title="Poland",Polsat Sport 3
+#EXTINF:-1 tvg-id="PolsatSport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_sport_3_logo.png" group-title="Poland",Polsat Sport 3
 https://stream1.freetv.fun/polsat-sport-news-pl-1.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/512px-Polsat_Sport_Premium_2_2021_gradient.svg.png" group-title="Poland",Polsat Sport Premium 2
+#EXTINF:-1 tvg-id="PolsatSportPremium2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/512px-Polsat_Sport_Premium_2_2021_gradient.svg.png" group-title="Poland",Polsat Sport Premium 2
 https://stream1.freetv.fun/polsat-sport-premium-2-pl-1.m3u8
 
 
