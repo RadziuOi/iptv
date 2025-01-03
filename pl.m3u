@@ -30,26 +30,26 @@ https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVTrwam.pl" tvg-shift="3 hours" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="PL",TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/TVP1_2021_logo.png" group-title="PL",TVP1 
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/TVP1_2021_logo.png" group-title="PL",TVP 1 
 https://irylek.ct8.pl/stream/tvp1hd
 
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="PL",TVP2 
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="PL",TVP 2 
 https://irylek.ct8.pl/stream/tvp2hd
-
-#EXTINF:-1 tvg-id="TVPABC2.pl" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="PL",TVP ABC2 
-https://irylek.ct8.pl/stream/tvpabc2
 
 #EXTINF:-1 tvg-id="TVPABC.pl" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="PL",TVP ABC 
 https://irylek.ct8.pl/stream/tvpabc
 
+#EXTINF:-1 tvg-id="TVPABC2.pl" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="PL",TVP ABC 2 
+https://irylek.ct8.pl/stream/tvpabc2
+
 #EXTINF:-1 tvg-id="TVPDokument.pl" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="PL",TVP Dokument 
 https://irylek.ct8.pl/stream/tvpdokument
 
-#EXTINF:-1 tvg-id="TVPHistoria2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/512px-TVP_Historia_2_%282021%29.svg.png" group-title="PL",TVP Historia2 
-https://irylek.ct8.pl/stream/tvphistoria2
-
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="PL",TVP Historia
 https://irylek.ct8.pl/stream/tvphistoria
+
+#EXTINF:-1 tvg-id="TVPHistoria2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/512px-TVP_Historia_2_%282021%29.svg.png" group-title="PL",TVP Historia 2 
+https://irylek.ct8.pl/stream/tvphistoria2
 
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="PL",TVP Info
 https://irylek.ct8.pl/stream/tvpinfo
@@ -57,11 +57,11 @@ https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-id="TVPKobieta.pl" tvg-shift="30 minutes" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="PL",TVP Kobieta 
 https://irylek.ct8.pl/stream/tvpkobieta
 
-#EXTINF:-1 tvg-id="TVPKultura2.pl" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="PL",TVP Kultura2 
-https://irylek.ct8.pl/stream/tvpkultura2
-
 #EXTINF:-1 tvg-id="TVPKultura.pl" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="PL",TVP Kultura 
 https://irylek.ct8.pl/stream/tvpkultura
+
+#EXTINF:-1 tvg-id="TVPKultura2.pl" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="PL",TVP Kultura 2 
+https://irylek.ct8.pl/stream/tvpkultura2
 
 #EXTINF:-1 tvg-id="TVPNauka.pl" tvg-logo="https://i.imgur.com/ga5Z8jf.png" group-title="PL",TVP Nauka 
 https://irylek.ct8.pl/stream/tvpnauka
