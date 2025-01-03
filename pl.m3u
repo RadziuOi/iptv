@@ -81,6 +81,9 @@ https://irylek.ct8.pl/stream/tvpsport
 #EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Poland",TVT 
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Polsat_News_2021.png" group-title="Poland",Polsat News
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
 
 
 
